@@ -7,7 +7,6 @@ public class Pusher : MonoBehaviour {
     bool ballInPlace = false;
     Rigidbody rb = null;
     float power = 0f;
-    float minPower = 0f;
     public float maxPower = 100f;
     public int force = 50;
     public Slider powerSlider;

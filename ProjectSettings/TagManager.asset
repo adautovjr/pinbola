@@ -8,6 +8,8 @@ TagManager:
   - Stick1
   - Stick2
   - Stick3
+  - Stick4
+  - Death
   layers:
   - Default
   - TransparentFX
